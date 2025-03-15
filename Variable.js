@@ -21,3 +21,5 @@ console.log(year);
 var number = 20 ;
 console.log(number);
 
+// git remote add origin https://github.com/ha-bib24/JavaScript.git
+// git push -u origin main
